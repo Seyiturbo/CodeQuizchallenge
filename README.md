@@ -2,7 +2,7 @@
 
 CHALLENGE 6
 ## DESCRIPTION
- I had to create a javaScript code quiz, which met the following requirements: 
+ I had to create a javaScript code quiz to meet the following criteria:
 
 As I am taking a code quiz
 WHEN I click the start button
