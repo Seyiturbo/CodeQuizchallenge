@@ -24,7 +24,7 @@ Select the "Start Quiz" purple button to begin the quiz! timer counts, as reachi
   
 ![Screenshot 2](./assets/screenshots/screen%20shot%201.png)
 
-![Screenshot 3](./assets/screenshots/Screenshot%202024-02-23%20at%2023.54.05.png)
+![Screenshot 3](./assets/screenshots/Screenshot%202024-02-24%20at%2000.19.50.png)
 
 
 ## Credits
